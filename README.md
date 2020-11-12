@@ -14,4 +14,4 @@ after restoring client-side and server-side packages. run the application, and f
 or just log in with mobile number. if you are login successfully then the login form disappears and the given Jw token will be saved in local storage.
 now you have to refresh the page and the hub will be connected.
 
- :beginner: ## please give a star
+ :beginner: ## please give a star  :star:
