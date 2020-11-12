@@ -12,6 +12,6 @@ In this repository, we're using [SignalRCore](https://docs.microsoft.com/en-us/a
 
 after restoring client-side and server-side packages. run the application, and first connect to the hub by clicking on a button at top of the page then login with username and password
 or just log in with mobile number. if you are login successfully then the login form disappears and the given Jw token will be saved in local storage.
-now you have to refresh the page and the hub will be connected.
+now you have to refresh the page and the hub will be connected and all users will be loaded.
 
  :beginner:  Please give a star  :star:
