@@ -1,6 +1,6 @@
 # SignalRCoreChatApplication
 In this repository, we're using [SignalRCore](https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-3.1)
-## Some features we'are using are 
+## Some features we are using, are : 
 - handling auto hub connecting
 - JWT Authentication
 - Client Vuejs App
