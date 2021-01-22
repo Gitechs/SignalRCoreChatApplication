@@ -1,0 +1,13 @@
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.exe
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.deps.json
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.runtimeconfig.json
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.runtimeconfig.dev.json
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.dll
+E:\GitHub\webdevs\Indexcer&Params\bin\Debug\netcoreapp3.1\Indexcer&Params.pdb
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.csprojAssemblyReference.cache
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.AssemblyInfoInputs.cache
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.AssemblyInfo.cs
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.csproj.CoreCompileInputs.cache
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.dll
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.pdb
+E:\GitHub\webdevs\Indexcer&Params\obj\Debug\netcoreapp3.1\Indexcer&Params.genruntimeconfig.cache
